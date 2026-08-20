@@ -1,0 +1,55 @@
+{
+    "money plant": {
+        "scientific_name": "Epipremnum aureum",
+        "water": "Water when the top soil becomes dry.",
+        "sunlight": "Bright indirect sunlight is best.",
+        "soil": "Use well-draining potting soil.",
+        "fertilizer": "Use a balanced fertilizer occasionally.",
+        "problems": "Yellow leaves can happen because of overwatering or poor light."
+    },
+
+    "snake plant": {
+        "scientific_name": "Dracaena trifasciata",
+        "water": "Water only when the soil is completely or mostly dry.",
+        "sunlight": "It can tolerate low light and also grows well in bright indirect light.",
+        "soil": "Use well-draining soil.",
+        "fertilizer": "Use a mild fertilizer during active growth.",
+        "problems": "Overwatering can cause root problems and yellow leaves."
+    },
+
+    "aloe vera": {
+        "scientific_name": "Aloe barbadensis",
+        "water": "Allow the soil to dry between watering.",
+        "sunlight": "Bright light is suitable.",
+        "soil": "Use sandy and well-draining soil.",
+        "fertilizer": "Use a mild succulent fertilizer occasionally.",
+        "problems": "Soft or brown leaves can be caused by excessive watering."
+    },
+
+    "rose": {
+        "scientific_name": "Rosa",
+        "water": "Water when the soil starts becoming dry.",
+        "sunlight": "Roses need several hours of sunlight.",
+        "soil": "Use fertile and well-draining soil.",
+        "fertilizer": "Use suitable flowering plant fertilizer.",
+        "problems": "Roses can have problems with pests and fungal diseases."
+    },
+
+    "tulsi": {
+        "scientific_name": "Ocimum tenuiflorum",
+        "water": "Water when the topsoil becomes slightly dry.",
+        "sunlight": "Tulsi prefers plenty of sunlight.",
+        "soil": "Use fertile and well-draining soil.",
+        "fertilizer": "Organic compost can be used.",
+        "problems": "Poor sunlight and improper watering can affect growth."
+    },
+
+    "peace lily": {
+        "scientific_name": "Spathiphyllum",
+        "water": "Keep the soil slightly moist but avoid waterlogging.",
+        "sunlight": "Bright indirect sunlight is suitable.",
+        "soil": "Use moisture-retaining but well-draining soil.",
+        "fertilizer": "Use balanced houseplant fertilizer occasionally.",
+        "problems": "Drooping can happen when the plant needs water."
+    }
+}
